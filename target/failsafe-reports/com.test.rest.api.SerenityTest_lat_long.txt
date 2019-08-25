@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.test.rest.api.SerenityTest_lat_long
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.389 s - in com.test.rest.api.SerenityTest_lat_long

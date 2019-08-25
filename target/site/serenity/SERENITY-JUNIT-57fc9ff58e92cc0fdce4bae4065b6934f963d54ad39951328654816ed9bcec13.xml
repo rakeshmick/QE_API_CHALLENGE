@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="com.test.rest.api.SerenityTest_lat_long" skipped="0" tests="2" time="20.24" timestamp="2019-08-25 08:15:15"><testcase classname="com.test.rest.api.SerenityTest_lat_long" name="Verify that user can query current weather with location paramterized"/></testsuite>

@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Serenity test lat long","Verify that user can query current weather with location paramterized","SUCCESS","2019-08-25T20:15:15.625309+10:00[Australia/Sydney]","0.0","20.24"

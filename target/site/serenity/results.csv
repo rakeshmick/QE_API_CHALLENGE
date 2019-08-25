@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Serenity test","Verify that user can query current weather with post code","FAILURE","2019-08-25T20:15:04.92133+10:00[Australia/Sydney]","0.0","11.37"
+"Serenity test lat long","Verify that user can query current weather with location paramterized","SUCCESS","2019-08-25T20:15:15.625309+10:00[Australia/Sydney]","0.0","20.24"
+"Serenity test","Verify that user can query current weather with location","FAILURE","2019-08-25T20:15:16.569708+10:00[Australia/Sydney]","0.0","1.51"
+"Serenity test","Verify that user can query current weather with post code negative test","FAILURE","2019-08-25T20:15:18.151659+10:00[Australia/Sydney]","0.0","1.62"
